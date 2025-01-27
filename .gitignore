@@ -10,3 +10,4 @@ dist/
 # Ignore large data or output directories
 outputs/
 weights/
+ss_data/
