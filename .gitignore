@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore large data or output directories
+outputs/
+weights/
